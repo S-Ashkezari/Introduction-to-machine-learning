@@ -1,1 +1,7 @@
+Main reference:
+https://pandas.pydata.org/
+
+More references:
 https://www.kaggle.com/learn/pandas
+https://www.geeksforgeeks.org/pandas-tutorial/
+

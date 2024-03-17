@@ -1,0 +1,8 @@
+https://www.kaggle.com/code/mervetorkan/association-rules-with-python/notebook
+https://www.kaggle.com/code/mbalvi75/14-fp-growth
+https://www.datacamp.com/tutorial/association-rule-mining-python
+
+Python libraries
+apyori: This is a library for implementing the Apriori algorithm in Python. It provides functions for reading and manipulating transactional data, as well as for generating association rules and evaluating their quality.
+mlxtend: This is a library for implementing various machine learning algorithms and tools in Python, including association rule mining. It provides functions for reading and manipulating transactional data, as well as for generating association rules and evaluating their quality.
+PyCaret: PyCaret is an open-source, low-code machine learning library in Python for automating machine learning workflows. It provides a wrapper on top of mlxtend for easy implementation of the Apriori algorithm.
